@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **A comprehensive E commerce site**
 
-- 👨‍💻 All of my projects are available at [Sammogul.com](Sammogul.com)
+- 👨‍💻 All of my projects are available at [Samuelmogul.com](Samuelmogul.com)
 
 - 📝 I regularly write articles on [Cysparkstechnologies.com](Cysparkstechnologies.com)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Sam.waweru240@gmail.com**
 
-- 📄 Know about my experiences [Sammogul.com](Sammogul.com)
+- 📄 Know about my experiences [Samuelmogul.com](Samuelmogul.com)
 
 - ⚡ Fun fact **Authentic**
 

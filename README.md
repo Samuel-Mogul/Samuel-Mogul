@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, js& python + frameworks & figma**
 
-- 📫 How to reach me **Sam.waweru240@gmail.com**
+- 📫 How to reach me **mogul@cysparkstechnologies.com**
 
 - 📄 Know about my experiences [Samuelmogul.com](Samuelmogul.com)
 

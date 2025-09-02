@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mogul_samuel" target="blank"><img src="https://img.shields.io/twitter/follow/mogul_samuel?logo=twitter&style=for-the-badge" alt="mogul_samuel" /></a> </p>
 
-- 🔭 I’m currently working on **My Chama**
 
-- 🌱 I’m currently learning **JavaScript, Figma, & Python**
-
-- 👯 I’m looking to collaborate on **A comprehensive E commerce site**
 
 - 👨‍💻 All of my projects are available at [Samuelmogul.com](Samuelmogul.com)
 
